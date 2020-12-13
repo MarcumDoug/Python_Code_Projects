@@ -1,4 +1,4 @@
-# basic_python_projects
+# Python Code Projects
 Python Projects for DSC 510 course
 
 <p>
